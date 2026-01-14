@@ -1,7 +1,7 @@
 # A‑NET GALAGA — Synchronet JS Door Game
 
 A-NET GALAGA is a full-featured Synchronet door-game written in JavaScript (galaga.js).  
-Version: .04 — by StingRay (A‑Net Online BBS)  
+Version: .06 — by StingRay (A‑Net Online BBS)  
 Website: https://a-net-online.lol
 
 This README gives installation instructions, requirements, quick setup steps and gameplay basics so you can drop
