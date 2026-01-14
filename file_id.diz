@@ -1,0 +1,12 @@
+A-NET GALAGA - Synchronet JS door game by StingRay
+Version .04
+
+Remake of GALAGA
+A single-file Synchronet door (galaga.js) with leaderboard,
+scroller integration, shop and gameplay.
+Requires Synchronet 3.19+
+and xtrn/scroller/scroller.js. by Codefenix of ConChaos.synchro.net
+
+http://a-net.fyi / https://a-net-online.lol
+bbs.a-net.online
+Telnet: 1337 SSH: 1338 RLogin: 1339
