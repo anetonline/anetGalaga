@@ -1,5 +1,5 @@
 /*
-  A-NET GALAGA (galaga.js) - Version: .06
+  A-NET GALAGA (galaga.js) - Version: .06 for Synchronet BBS
   Author: StingRay - A-Net Online BBS (https://a-net-online.lol)
 
   Notes:
