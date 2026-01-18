@@ -1,5 +1,5 @@
 /*
-  A-NET GALAGA (galaga.js) - Version: .05
+  A-NET GALAGA (galaga.js) - Version: .06
   Author: StingRay - A-Net Online BBS (https://a-net-online.lol)
 
   Notes:
